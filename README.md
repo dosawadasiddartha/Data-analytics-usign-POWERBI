@@ -1,5 +1,7 @@
 ## Sales Insights Data Analysis Project
 
+---> I have Uploaded SQL files import it into mySQL Workbench and perform sql dataanalysis and Connect the SQL workbench to PowerBI to visualize Data and create a DashBoard.
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
